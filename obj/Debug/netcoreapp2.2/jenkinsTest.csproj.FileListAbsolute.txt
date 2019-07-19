@@ -1,0 +1,14 @@
+/home/strok/Documents/jenkinsTest/bin/Debug/netcoreapp2.2/jenkinsTest.deps.json
+/home/strok/Documents/jenkinsTest/bin/Debug/netcoreapp2.2/jenkinsTest.runtimeconfig.json
+/home/strok/Documents/jenkinsTest/bin/Debug/netcoreapp2.2/jenkinsTest.runtimeconfig.dev.json
+/home/strok/Documents/jenkinsTest/bin/Debug/netcoreapp2.2/jenkinsTest.dll
+/home/strok/Documents/jenkinsTest/bin/Debug/netcoreapp2.2/jenkinsTest.pdb
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.csprojAssemblyReference.cache
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.csproj.CoreCompileInputs.cache
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.RazorAssemblyInfo.cache
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.RazorAssemblyInfo.cs
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.AssemblyInfoInputs.cache
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.AssemblyInfo.cs
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.RazorTargetAssemblyInfo.cache
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.dll
+/home/strok/Documents/jenkinsTest/obj/Debug/netcoreapp2.2/jenkinsTest.pdb
